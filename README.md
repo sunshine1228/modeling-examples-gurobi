@@ -7,7 +7,7 @@ Data scientists, engineers, computer scientists, economists, and in general, pro
 
 ### Goals of modeling examples:
 + Illustrate the broad applicability of mathematical optimization.
-+ Show how to build mathematical optimization models. AND RUN IT!
++ Show how to build mathematical optimization models. AND RUN IT! hhhhh
 
 These modeling examples are coded using the Gurobi Python API and distributed as Jupyter Notebooks.
 
