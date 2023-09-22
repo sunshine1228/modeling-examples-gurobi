@@ -5,7 +5,7 @@
 ### Target audience:
 Data scientists, engineers, computer scientists, economists, and in general, professionals with a background in mathematical modeling and a basic knowledge of Python.
 
-### Goals of modeling examples: hhhh you can do it!! let's try again!!
+### Goals of modeling examples: hhhh you can do it!! let's try again!!  PLEASE BE FINE ALWAYS...
 + Illustrate the broad applicability of mathematical optimization.
 + Show how to build mathematical optimization models. AND RUN IT! hhhhh
 
