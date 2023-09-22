@@ -17,7 +17,7 @@ They touch on more advanced features such as generalized constraints, piecewise-
 multi-objective hierarchical optimization.  They also illustrate common constraint types such as “allocation constraints”, 
 “balance constraints”, “sequencing constraints”, “precedence constraints”, and others.
 
-## Index of modeling examples
+## Index of modeling examples LET'S SAY
 
 - [3D Tic-Tac-Toe](https://github.com/Gurobi/modeling-examples/tree/master/3d_tic_tac_toe)
 - [Agricultural Pricing](https://github.com/Gurobi/modeling-examples/tree/master/agricultural_pricing)
